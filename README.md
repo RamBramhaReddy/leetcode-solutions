@@ -102,34 +102,6 @@ Just push a new problem folder like `9999-my-problem/` with a `solution.py` file
    python 1528-kids-with-the-greatest-number-of-candies/solution.py
    ```
 
----
-
-## Topics Covered
-
-- Arrays & Strings
-- Hash Tables & Dictionaries
-- Two Pointers
-- Binary Search
-- Linked Lists
-- Trees & Graphs
-- Dynamic Programming
-- Backtracking
-- Greedy Algorithms
-- Bit Manipulation
-- Sorting & Searching
-- Stack & Queue
-
----
-
-## Learning Resources
-
-- **[LeetCode](https://leetcode.com)** - Problem platform
-- **[Python Docs](https://docs.python.org/3/tutorial/datastructures.html)** - Data structures
-- **[Big O Cheat Sheet](https://www.bigocheatsheet.com/)** - Complexity analysis
-- **[GeeksforGeeks](https://www.geeksforgeeks.org/)** - Tutorial articles
-
----
-
 ## Solution Template
 
 Use this template for new solutions:
