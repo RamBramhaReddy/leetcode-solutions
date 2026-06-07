@@ -1,11 +1,11 @@
 class Solution:
     def shuffle(self, nums: List[int], n: int) -> List[int]:
-        lst = []
+        
+        ans = [0] * (2 * n)
         for i in range(n):
-            lst.append(nums[i])
-            lst.append(nums[i + n])
-        return lst
-
+            ans[2*i] = nums[i]
+            ans[2*i+1] = nums[i+n]
+        return ans
 
         
         
